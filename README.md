@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/171/171294.gif">
 
 
-- 🔭 I’m currently working on **FIFO**
+
 
 - 📫 How to reach me **vermasailesh271@gmail.com**
 
